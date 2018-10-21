@@ -13,7 +13,7 @@ public class MachineLearningServiceTest {
 	@Test
 	public void test() {
 //		fail("Not yet implemented");
-		assertTrue(machineLearningService.isValid("false"));
+		assertTrue(machineLearningService.isValid("asdf"));
 	}
 
 }
