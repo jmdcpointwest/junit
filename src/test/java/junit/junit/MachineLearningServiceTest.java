@@ -19,7 +19,7 @@ public class MachineLearningServiceTest {
 	
 	@Test
 	public void testIfFalse() {
-		assertFalse(machineLearningService.isValid("false"));
+		assertFalse(machineLearningService.isValid("true"));
 	}
 
 }
